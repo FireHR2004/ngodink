@@ -1,0 +1,1 @@
+int bBuku =  sizeof(buku)/sizeof(*buku);
